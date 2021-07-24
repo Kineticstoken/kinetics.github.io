@@ -1,2 +1,2 @@
 # kinetics.github.io
-kinetics token
+kinetics
